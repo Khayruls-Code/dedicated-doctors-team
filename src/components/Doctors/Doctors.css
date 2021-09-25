@@ -1,0 +1,85 @@
+.doctor{
+  width: 32%;
+  background-color: #fff;
+  padding: 20px 20px 70px;
+  margin-bottom: 40px;
+  position: relative;
+  border-left: 3px solid #5f27cd;
+}
+.doctor h1{
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #3867d6;
+}
+.doctor .spacial{
+  font-weight: 500;
+  color: gray;
+  letter-spacing: 1px;
+}
+.doctor .time{
+  color: #999;
+  font-size: 1rem;
+}
+.doctor .place{
+  color: #999;
+  font-size: 1rem;
+}
+.doctor .salary{
+  font-size: 1.1rem;
+  color: #333;
+  font-weight: 500;
+}
+.doctor .salary span{
+  color: #ee5253;
+}
+.doctor .button{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 15px 0 0;
+}
+.doctor .button .social i{
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  border: 0.5px solid rgba(153, 153, 153, 0.404);
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  margin-right: 5px;
+  color: #999;
+  cursor: pointer;
+  transition: .3s;
+}
+.doctor .button .social i:hover{
+  background-color: #5f27cd;
+  color: #fff;
+}
+.doctor .button button{
+  padding: 8px 10px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #ee5253;
+  cursor: pointer;
+  background: #ee5253;
+  color: #fff;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+.doctor .button button i{
+  margin-left: 5px;
+}
+.doctor .image{
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  overflow: hidden;
+  bottom: -35px;
+  left: 30px;
+}
+.doctor .image img{
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,24 @@
+.main{
+  padding: 50px 0;
+  background-image: url(../../images/bg.png);
+  background-color: #eff2f6;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.row{
+  display: flex;
+  gap: 25px;
+}
+.doctors{
+  flex: 3;
+}
+.selected{
+  flex: 1;
+}
+.inner-row{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

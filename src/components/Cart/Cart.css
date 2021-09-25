@@ -1,0 +1,29 @@
+.cart{
+  background: #fff;
+  border-bottom: 3px solid #5f27cd;
+  border-top: 3px solid #5f27cd;
+  padding: 30px 20px;
+  position: sticky;
+  top: 0;
+}
+.cart h2{
+  font-size: 1.4rem;
+  color: #333;
+  font-weight: normal;
+  margin-top: 10px;
+}
+.cart h2 span{
+  color: #ee5253;
+}
+.cart h2 .count{
+  color: #3867d6;
+}
+.cart ul{
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.cart ul li{
+  list-style-type: square;
+  margin: 8px 0;
+  font-size: 1.1rem;
+}
