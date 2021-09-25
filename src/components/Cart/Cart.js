@@ -4,9 +4,9 @@ import "./Cart.css"
 const Cart = (props) => {
   let salary = 0;
   let nameArr = [];
-  for(let single of props.cart){
-    salary = salary + single.salary
-    nameArr.push(single.name)
+  for(let singleMember of props.cart){
+    salary = salary + singleMember.salary
+    nameArr.push(singleMember.name)
   }
   return (
     <div className="cart">
