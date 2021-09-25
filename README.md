@@ -1,6 +1,6 @@
 # Dedicated doctors team by React app
 
-This live link of the project is [doctors team](https://dedicated-doctors-team.netlify.app/).
+The live link of the project is [doctors team](https://dedicated-doctors-team.netlify.app/).
 
 ## About The website
 
