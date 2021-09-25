@@ -1,6 +1,6 @@
 # Dedicated doctors team by React app
 
-This project was bootstrapped with [doctors team](https://dedicated-doctors-team.netlify.app/).
+This live link of the project is [doctors team](https://dedicated-doctors-team.netlify.app/).
 
 ## About The website
 
